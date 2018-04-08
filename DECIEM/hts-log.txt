@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 08 Apr 2018 01:14:27 at https://theordinary.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://theordinary.com/ -O1 "C:\Users\shahin\Desktop\428\DECIEM" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:16:30	Error: 	"Not Found" (404) at link https://theordinary.com/Images/logo.png (from https://theordinary.com/)
+01:19:32	Error: 	"Not Found" (404) at link https://theordinary.com/images/blank.gif (from https://theordinary.com/bundles/csstyles?v=D05BA49A6D5A4849A1E843DE4953F7E6)
+01:19:32	Error: 	"Not Found" (404) at link https://theordinary.com/POST (from https://theordinary.com/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZOg5fQ2rS1JLUw1W9pzjLVgYDaVnRBWLtBvLF4zPu2BteJ6_N03n9VJOqduFbugrvg2&t=636459486092264089)
+01:19:32	Warning: 	Moved Permanently for https://theordinary.com/Firefox/
+01:19:32	Warning: 	File has moved from https://theordinary.com/Firefox/ to https://theordinary.com/Firefox
+01:19:33	Warning: 	Moved Permanently for https://theordinary.com/AppleWebKit/
+01:19:33	Warning: 	File has moved from https://theordinary.com/AppleWebKit/ to https://theordinary.com/AppleWebKit
+01:19:33	Warning: 	Moved Permanently for https://theordinary.com/Opera/
+01:19:33	Warning: 	File has moved from https://theordinary.com/Opera/ to https://theordinary.com/Opera
+01:19:34	Error: 	"Not Found" (404) at link https://theordinary.com/MicrosoftAjaxWebForms.js (from https://theordinary.com/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OFmHSJKxgWX4-sBfhPcv79JEOKpKgIh4la51GQ7vF9pWy6_5-YrbTAwHsUmSutWp-14o70zFn6hm__WW-V-OTLjujecvImvGUEwVNrEY1yzgwL5a0gmsIUQea8jKUpVDzwKsw_U922pvYkblRt3jazs1&t=72fc8ae3)
+01:19:34	Error: 	"Not Found" (404) at link https://theordinary.com/MicrosoftAjaxSerialization.js (from https://theordinary.com/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OFmHSJKxgWX4-sBfhPcv79JEOKpKgIh4la51GQ7vF9pWy6_5-YrbTAwHsUmSutWp-14o70zFn6hm__WW-V-OTLjujecvImvGUEwVNrEY1yzgwL5a0gmsIUQea8jKUpVDzwKsw_U922pvYkblRt3jazs1&t=72fc8ae3)
+01:19:34	Error: 	"Not Found" (404) at link https://theordinary.com/MicrosoftAjaxNetwork.js (from https://theordinary.com/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OFmHSJKxgWX4-sBfhPcv79JEOKpKgIh4la51GQ7vF9pWy6_5-YrbTAwHsUmSutWp-14o70zFn6hm__WW-V-OTLjujecvImvGUEwVNrEY1yzgwL5a0gmsIUQea8jKUpVDzwKsw_U922pvYkblRt3jazs1&t=72fc8ae3)
+01:20:07	Error: 	"Not Found" (404) at link https://theordinary.com/Firefox (from https://theordinary.com/Firefox/)
+01:20:07	Error: 	"Not Found" (404) at link https://theordinary.com/AppleWebKit (from https://theordinary.com/AppleWebKit/)
+01:20:07	Error: 	"Not Found" (404) at link https://theordinary.com/Opera (from https://theordinary.com/Opera/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 40 seconds : 431 links scanned, 418 files written (32110903 bytes overall) [18218708 bytes received at 53584 bytes/sec], 19113628 bytes transferred using HTTP compression in 178 files, ratio 26%, 1.1 requests per connection
+(9 errors, 6 warnings, 0 messages)
